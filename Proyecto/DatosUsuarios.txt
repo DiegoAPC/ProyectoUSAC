@@ -1,0 +1,2 @@
+Catedratico Prueba1,123456789,6bdbed17a00f634bdf018300bf6d71dc276db7d58890d74290001ef2dd12f63d,Catedratico
+Estudiante1,Est,321654987,07/03/2000,1234-5678,Estudiante1,Estudiante1@gmail.com,6bdbed17a00f634bdf018300bf6d71dc276db7d58890d74290001ef2dd12f63d,Estudiante

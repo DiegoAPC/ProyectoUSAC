@@ -1,0 +1,3 @@
+admin1,admin1,Administrador
+123456789,Contraseña1*,Catedratico
+Estudiante1,Contraseña1*,Estudiante

@@ -1,0 +1,1 @@
+CursoPrueba1,150,7:00 . 8:00 am,7856,100,Catedratico Prueba1
